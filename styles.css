@@ -1,0 +1,154 @@
+
+
+
+
+.sachin_heading{
+  text-align:center;
+  display: block;
+
+}
+h1{
+  font-size:90px;
+  font-family: 'Sacramento', cursive;
+  color:#66BFBF;
+
+}
+p{
+  font-family: 'Merriweather Sans', sans-serif;
+  color:#40514E;
+  display: block;
+
+}
+h2{
+  font-family: 'Merriweather Sans', sans-serif;
+    color:#66BFBF;
+    margin-top:90px;
+  padding-bottom:10px;
+
+}
+h3{
+  font-family: 'Merriweather Sans', sans-serif;
+color:#66BFBF;
+
+}
+.top_cloud{
+  position:absolute;
+  right:300px;
+  top:40px;
+}
+.bottom-cloud{
+
+    position:absolute;
+    left:250px;
+    right:350px;
+
+}
+.mountain{
+  /*position:absolute;
+  left:500px;*/
+  text-align: center;
+  background-color:#E4F9F5;;
+
+}
+
+
+.topcontainer{
+  padding-top:100px;
+  background-color:#E4F9F5;
+  width:100%;
+  display: block;
+
+}
+.middlecontainer{
+  display: block;
+
+
+padding-top:120px;
+
+}
+.intro{
+
+  text-align: center;
+  width:30%;
+  margin:auto;
+  display: block;
+
+
+}
+.profile{
+text-align: center;
+  display: block;
+
+}
+div{
+  display: block;
+  width:100%;
+}
+hr{
+
+
+  border-style: dotted none none;
+  border-width: medium;
+  width:4%;
+  border-color:grey;
+  display:block;
+}
+.skill{
+  text-align: center;
+  display:block;
+}
+.skill-1{
+  position: relative;
+  left: 30%;
+  line-height: 2;
+
+}
+.skill-2{
+  position: relative;
+  left: 30%;
+  line-height: 2;
+}
+td{
+  padding-left: 15px;
+}
+.touch{
+  text-align: center;
+}
+p{
+  line-height:2;
+  width:48%;
+}
+.contect-messg{
+  width:40%;
+  line-height:2;
+  margin: 40px auto;
+}
+.contect{
+  text-decoration-color: red;
+  border-radius:8px;
+}
+.bottom-container{
+  background-color:#66BFBF;
+  heigth:500px;
+  text-align: center;
+  padding-top:80px;
+  padding-bottom:80px;
+
+
+}
+a{
+
+
+  color:#11999E;
+  text-align: center;
+
+}
+.copy-rigth{
+  color:#EAF6F6;
+  padding:20px;
+  font-size:0.75rem;
+  width:100%;
+
+
+
+}
